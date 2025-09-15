@@ -1,4 +1,4 @@
-# 32ES-
+# 32ESplus
 32ES+ E-ink based RPN calculator using the M5Stack Paper S3 hardware.
 
 Features include those on the 32ES.  New features are listed first:
